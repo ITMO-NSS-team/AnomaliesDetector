@@ -1,5 +1,5 @@
 # AnomaliesDetector
-This repository contains all source code, figures, etc. of our paper :
+This repository contains all source code, figures, etc. of our paper:
 ["Anomalies Detection in Metocean Simulation Results Using Convolutional Neural Networks"][1]
 
 
